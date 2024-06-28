@@ -10,7 +10,7 @@ import { TbSquareNumber1, TbSquareNumber2, TbSquareNumber3, TbSquareNumber4 } fr
 
 const Rezultate = () => {
   const [title, setTitle] = useState("Peste 500 milioane de vizualizări pe conturile clienților noștri");
-  const [paragraf, setParagraf] = useState("De cand am inceput, am adăugat peste două milioane de urmăritori pe conturile clienților noștri. Secretul acestui succes constă în dezvoltarea unor strategii personalizate pentru fiecare cont, înțelegerea profundă a audienței și așteptărilor acesteia pe platformă, și crearea de conținut video captivant, care îmbină distracția cu valoarea educativă.");
+  const [paragraf, setParagraf] = useState("Am creat TikTok-uri care au acumulat peste 500 de milioane de vizualizări pe conturile clienților noștri. Acest succes remarcabil demonstrează expertiza noastră în generarea de conținut viral, captarea interesului publicului și amplificarea vizibilității brandurilor. Colaborând cu noi, veți beneficia de o strategie de marketing pe social media personalizată, adaptată nevoilor specifice ale afacerii dumneavoastră, pentru a atinge și depăși obiectivele de creștere și implicare.");
   const [image, setImage] = useState(Image1);
 
   const handleClick = (title, paragraf, image, buttonId) => {
