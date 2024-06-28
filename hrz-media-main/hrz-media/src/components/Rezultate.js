@@ -80,7 +80,7 @@ const Rezultate = () => {
         <div
           id="buton4"
           onClick={() => handleClick(
-            "Peste 100K urmăritori într-o singură lună",
+            "Peste 100K urmăritori în timp record",
             "Cea mai impresionantă creștere am avut-o cu contul @depurtat.ro unde am reusit sa aducem peste 100K urmaritori intr-un timp record in Romania.",
             Image4,
             'buton4'

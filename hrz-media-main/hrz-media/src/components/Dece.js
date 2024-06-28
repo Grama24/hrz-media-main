@@ -12,7 +12,8 @@ const Dece = () => {
       <div className='flex flex-row  py-16 justify-between lg:flex-col 2xl:gap-8 '>
         <div className='flex flex-wrap max-w-[450px] py-16 lg:w-full lg:max-w-max lg:py-8 lg:justify-center  '>
             <h2 className='text-left text-wrap text-3xl text-white pb-8 pt-4 lg:text-center'>Fă-ți brandul cunoscut pe TikTok !</h2>
-            <p className='text-left text-wrap text-m text-white pb-8'>Pentru a reuși în online în acest moment, trebuie să oferi plus-valoare audienței tale prin educație și amuzament. TikTok este platforma ideală pentru a face acest lucru</p>
+            <p className='text-left text-wrap text-m text-white pb-8'>
+            Pentru a avea succes online astăzi, trebuie să oferi audienței tale conținut educativ și distractiv. TikTok este platforma cheie pentru a atinge acest obiectiv</p>
             <Link href="/servicii"><button className='duration-700 rounded-md border-solid border-2 border-white text-white p-4 hover:border-black hover:text-black hover:bg-white hover:duration-700'>Serviciile noastre</button></Link>
         </div>
         <div className='max-w-[350px] py-16 lg:w-full lg:max-w-max lg:py-8 text-white'>
