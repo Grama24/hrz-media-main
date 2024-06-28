@@ -10,7 +10,7 @@ import { TbSquareNumber1, TbSquareNumber2, TbSquareNumber3, TbSquareNumber4 } fr
 
 const Rezultate = () => {
   const [title, setTitle] = useState("Peste 500 milioane de vizualizări pe conturile clienților noștri");
-  const [paragraf, setParagraf] = useState("În ultimii doi ani am strâns peste două milioane de urmăritori pe conturile clienților noștri. Cheia acestei reușite a fost o strategie originală pentru fiecare cont, înțelegerea audienței și a așteptărilor ei legate de platformă și crearea unui conținut video distractiv cu multă valoare educativă.");
+  const [paragraf, setParagraf] = useState("De cand am inceput, am adăugat peste două milioane de urmăritori pe conturile clienților noștri. Secretul acestui succes constă în dezvoltarea unor strategii personalizate pentru fiecare cont, înțelegerea profundă a audienței și așteptărilor acesteia pe platformă, și crearea de conținut video captivant, care îmbină distracția cu valoarea educativă.");
   const [image, setImage] = useState(Image1);
 
   const handleClick = (title, paragraf, image, buttonId) => {
@@ -39,7 +39,7 @@ const Rezultate = () => {
           id="buton1"
           onClick={() => handleClick(
             "Peste 500 milioane de vizualizări pe conturile clienților noștri",
-            "Am realizat circa 2200 de TikTok-uri ce au strâns peste 500 milioane de vizualizări pe conturile clienților noștri într-un an de zile. Majoritatea clipurilor realizate de noi pe TikTok le găsești pe #BRANDSTAGE unde avem peste 500 milioane de vizualizări.",
+            "Am creat TikTok-uri care au acumulat peste 500 de milioane de vizualizări pe conturile clienților noștri. Acest succes remarcabil demonstrează expertiza noastră în generarea de conținut viral, captarea interesului publicului și amplificarea vizibilității brandurilor. Colaborând cu noi, veți beneficia de o strategie de marketing pe social media personalizată, adaptată nevoilor specifice ale afacerii dumneavoastră, pentru a atinge și depăși obiectivele de creștere și implicare.",
             Image1,
             'buton1'
           )}
@@ -53,7 +53,7 @@ const Rezultate = () => {
           id="buton2"
           onClick={() => handleClick(
             "Peste 2 milioane urmăritori",
-            "În ultimii doi ani am strâns peste două milioane de urmăritori pe conturile clienților noștri. Cheia acestei reușite a fost o strategie originală pentru fiecare cont, înțelegerea audienței și a așteptărilor ei legate de platformă și crearea unui conținut video distractiv cu multă valoare educativă.",
+            "De cand am inceput, am adăugat peste două milioane de urmăritori pe conturile clienților noștri. Secretul acestui succes constă în dezvoltarea unor strategii personalizate pentru fiecare cont, înțelegerea profundă a audienței și așteptărilor acesteia pe platformă, și crearea de conținut video captivant, care îmbină distracția cu valoarea educativă.",
             Image2,
             'buton2'
           )}
@@ -66,8 +66,8 @@ const Rezultate = () => {
         <div
           id="buton3"
           onClick={() => handleClick(
-            "Peste 24 milioane vizualizări",
-            "Cel mai vizualizat TikTok realizat de noi a ajuns la peste 24 milioane vizualizări.A fost cel mai vizualizat TikTok din România timp de 2 săptămâni și a generat peste 20K de urmăritori. Clipul a devenit viral și in alte țări, cum ar fi: Germania, Italia, Franța, Brazilia, Ucraina și Turcia.",
+            "Peste 6 milioane vizualizări",
+            "Cel mai vizualizat TikTok realizat de noi a ajuns la peste 6 milioane vizualizări, generând un engagement extraordinar și consolidând poziția brandului nostru client pe piață. Ne mândrim cu abilitatea noastră de a crea conținut viral care captează atenția și construiește relații autentice cu publicul țintă.",
             Image3,
             'buton3'
           )}
@@ -81,7 +81,7 @@ const Rezultate = () => {
           id="buton4"
           onClick={() => handleClick(
             "Peste 100K urmăritori într-o singură lună",
-            "Cea mai impresionantă creștere am avut-o cu contul @dr.alexandra.mircea cu care am reușit să fim nr 1 în trending timp de 2 săptămâni cu 3 clipuri diferite. Astfel am crescut de la 300K de urmăritori la 400K într-o singură lună.",
+            "Cea mai impresionantă creștere am avut-o cu contul @depurtat.ro unde am reusit sa aducem peste 100K urmaritori intr-un timp record in Romania.",
             Image4,
             'buton4'
           )}
