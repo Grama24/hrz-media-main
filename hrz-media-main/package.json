@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-icons": "^5.2.1",
+    "react-loader-spinner": "^6.1.6",
+    "react-smart-scroller": "^1.1.22",
+    "react-spinners": "^0.13.8"
+  }
+}
