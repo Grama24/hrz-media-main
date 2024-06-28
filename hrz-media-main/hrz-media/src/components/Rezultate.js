@@ -10,7 +10,7 @@ import { TbSquareNumber1, TbSquareNumber2, TbSquareNumber3, TbSquareNumber4 } fr
 
 const Rezultate = () => {
   const [title, setTitle] = useState("Peste 500 milioane de vizualizări pe conturile clienților noștri");
-  const [paragraf, setParagraf] = useState("În ultimii doi ani am strâns peste două milioane de urmăritori pe conturile clienților noștri.Cheia acestei reușite a fost o strategie originală pentru fiecare cont, înțelegerea audienței și a așteptărilor ei legate de platformăși crearea unui conținut video distractiv cu multă valoare educativă.");
+  const [paragraf, setParagraf] = useState("În ultimii doi ani am strâns peste două milioane de urmăritori pe conturile clienților noștri. Cheia acestei reușite a fost o strategie originală pentru fiecare cont, înțelegerea audienței și a așteptărilor ei legate de platformă și crearea unui conținut video distractiv cu multă valoare educativă.");
   const [image, setImage] = useState(Image1);
 
   const handleClick = (title, paragraf, image, buttonId) => {
@@ -53,7 +53,7 @@ const Rezultate = () => {
           id="buton2"
           onClick={() => handleClick(
             "Peste 2 milioane urmăritori",
-            "În ultimii doi ani am strâns peste două milioane de urmăritori pe conturile clienților noștri.Cheia acestei reușite a fost o strategie originală pentru fiecare cont, înțelegerea audienței și a așteptărilor ei legate de platformăși crearea unui conținut video distractiv cu multă valoare educativă.",
+            "În ultimii doi ani am strâns peste două milioane de urmăritori pe conturile clienților noștri. Cheia acestei reușite a fost o strategie originală pentru fiecare cont, înțelegerea audienței și a așteptărilor ei legate de platformă și crearea unui conținut video distractiv cu multă valoare educativă.",
             Image2,
             'buton2'
           )}
