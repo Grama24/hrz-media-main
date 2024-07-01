@@ -13,7 +13,7 @@ const DespreNoi = () => {
       <Titlu scris="Despre Noi"/>  
       <div className='w-[90%] max-w-[1250px] mx-auto pt-32 flex lg:flex-col-reverse lg:pt-16 pb-16 bg-black fondator'>
       <Fondator imagine={Fondator2.src} nume=" Alexandru Tudor (Horazio)" ocupatie="CEO" />
-        <p className='text-white my-auto lg:mt-16 lg:text-center mx-auto xs:w-[350px] xxs:w-[300px] w-[400px]'>HRZ Media - experți în promovarea organica pe platformele online, în special pe TikTok și Instagram. Noi maximizăm vizibilitatea și vânzările clienților noștri, oferind soluții personalizate și inovatoare în marketingul digital in peste 5 nișe diferite. Avem peste 20 de clienti multumiti, peste 500 milioane de views si peste 2 milioane de urmaritori acumulati</p>
+        <p className='text-white my-auto lg:mt-16 lg:text-center mx-auto xs:w-[350px] xxs:w-[300px] w-[400px]'>HRZ Media - experți în promovarea organica pe platformele online, în special pe TikTok și Instagram. Noi maximizăm vizibilitatea și vânzările clienților noștri, oferind soluții personalizate și inovatoare în marketingul digital in cel puțin 5 nișe diferite. Avem peste 20 de clienti multumiti, peste 500 milioane de views si peste 2 milioane de urmaritori acumulati</p>
         
         </div>   
 
